@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>RavnCellular</title>
+		<title>Web Responsivo y GIT</title>
 		<link href="css/estilo.css" rel="stylesheet"></link>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
@@ -26,21 +26,21 @@
 				<div class="promos">
 					<table class="promotabla">
 						<tr><td class="promofoto"><img src="imagenes/equipos.png"></img></td></tr>
-						<tr><td class="promotitulo">Equipos</td></tr>
+						<tr><td class="promotitulo">Equipos A</td></tr>
 						<tr><td class="promotexto">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</td></tr>
 					</table>
 				</div>
 				<div class="promos">
 					<table class="promotabla">
 						<tr><td class="promofoto"><img src="imagenes/equipos.png"></img></td></tr>
-						<tr><td class="promotitulo">Equipos</td></tr>
+						<tr><td class="promotitulo">Equipos B</td></tr>
 						<tr><td class="promotexto">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</td></tr>
 					</table>
 				</div>
 				<div class="promos">
 					<table class="promotabla">
 						<tr><td class="promofoto"><img src="imagenes/equipos.png"></img></td></tr>
-						<tr><td class="promotitulo">Equipos</td></tr>
+						<tr><td class="promotitulo">Equipos C</td></tr>
 						<tr><td class="promotexto">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</td></tr>
 					</table>
 				</div>

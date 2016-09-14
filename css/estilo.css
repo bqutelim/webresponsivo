@@ -15,6 +15,7 @@ nav ul { margin:0px; padding: 0px; list-style-type: none; text-align: center; }
 nav ul li { width:145.2px; float:left; padding:1px 0px 1px 1px; font-size:10pt; }
 nav ul li a  { display:block; text-decoration:none; padding: 10px 0px 10px 0px ; color:#FFFFFF; background:linear-gradient(to bottom, #B61728, #6E030E); }
 nav ul li a:hover { display:block; color:#FFFFFF; background:linear-gradient(to bottom, #6E030E, #B61728 ); }
+nav ul li b { display: block;}
 
 .promos, .articulo { float:left; width:21%; margin:20px 2% 20px 2%; background:linear-gradient(to bottom, #555555, #333333); box-shadow:0px 0px 20px #2A2B2F; }
 .promotabla, .articulotabla { border-spacing:0px; width:100%; }
