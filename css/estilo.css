@@ -13,7 +13,7 @@ footer big { font-size:12pt; font-weight:bold; }
 
 nav ul { margin:0px; padding: 0px; list-style-type: none; text-align: center; }
 nav ul li { width:145.2px; float:left; padding:1px 0px 1px 1px; font-size:10pt; }
-nav ul li a  { display:block; text-decoration:none; padding: 10px 0px 10px 0px ; color:#FFFFFF; background:linear-gradient(to bottom, #B61728, #6E030E); }
+nav ul li a  { display:block; text-decoration:none; padding: 10px 0px 10px 0px ; color:gray; background:linear-gradient(to bottom, #B61728, #6E030E); }
 nav ul li a:hover { display:block; color:#FFFFFF; background:linear-gradient(to bottom, #6E030E, #B61728 ); }
 nav ul li b { display: block;}
 
